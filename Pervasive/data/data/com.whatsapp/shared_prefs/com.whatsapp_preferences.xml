@@ -4,7 +4,7 @@
 <string name="notify_ringtone">content://settings/system/notification_sound</string>
 <int name="logins_with_messages" value="0" />
 <string name="group_notify_tone">content://settings/system/notification_sound</string>
-<int name="participants_size_limit" value="30" />
+<int name="participants_size_limit" value="3000" />
 <boolean name="show_all_contacts" value="true" />
 <string name="group_notify_vibrate_length">1</string>
 <boolean name="input_enter_send" value="false" />
