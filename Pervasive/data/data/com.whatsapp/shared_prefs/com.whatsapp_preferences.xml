@@ -4,7 +4,7 @@
 <string name="notify_ringtone">content://settings/system/notification_sound</string>
 <int name="logins_with_messages" value="0" />
 <string name="group_notify_tone">content://settings/system/notification_sound</string>
-<int name="participants_size_limit" value="30" />
+<int name="participants_size_limit" value="3000" />
 <boolean name="show_all_contacts" value="true" />
 <string name="group_notify_vibrate_length">1</string>
 <boolean name="input_enter_send" value="false" />
@@ -23,7 +23,7 @@
 <string name="registration_price">£0.69</string>
 <long name="groups_server_props_last_refresh_time" value="1356522401112" />
 <string name="notify_vibrate_length">1</string>
-<int name="group_number_limit" value="30" />
+<int name="group_number_limit" value="3000" />
 <string name="broadcast_notify_popup_mode">0</string>
 <int name="sync_count" value="0" />
 <string name="group_notify_light_color">FFFFFF</string>
